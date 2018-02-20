@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    color: #888;
+    line-height: 30px;
+    text-align: center;
+    background-image: url("/img/Background.jpg")!important;
+}
+
+.login.login-v2 {
+    background: rgba(225, 215, 255, 0.3) !important;
+}
+
+input{
+    background-color: white !important;
+    color: black !important;
+}
